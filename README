@@ -1,0 +1,5 @@
+pipenv shell
+jupyter lab
+
+
+https://www.tensorflow.org/alpha/tutorials/quickstart/beginner
